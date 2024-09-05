@@ -22,7 +22,7 @@ $$ C = (X_{C} , Y_{C}, Z_{C}) $$
 
 * ### Dot product of two vectors A and B
 
-    Let $ \vec{A} $ and $ \vec{B} $ be our two vectors.
+    Let $`\vec{A}`$ and $ \vec{B} $ be our two vectors.
 
     >Dot product of two vectors returns a scalar i.e a number.
 
