@@ -2,7 +2,7 @@
 
 ## Common Assumptions
 
-$$ A = (X_{A} , Y_{A}, Z_{A}) $$
+$$A = (X_{A} , Y_{A}, Z_{A})$$
 $$ B = (X_{B} , Y_{B}, Z_{B}) $$
 $$ C = (X_{C} , Y_{C}, Z_{C}) $$
 
